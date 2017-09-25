@@ -16,4 +16,6 @@
 ### ciyun.py
 读取歌词并通过jieba分词和wordcloud生成词云。
 
-![](/home/cd/spider/QQmusic/1.png)
+## 需要在目录下下载一个字体，文件目录也需要按照自己的情况更改。
+
+![](https://wx4.sinaimg.cn/large/006VtvB0ly1fjwbxd1tkhj30hs0dc74v.jpg)
