@@ -1,21 +1,7 @@
-# QQmusic
-周董在唱什么
-
-## 主要的python库
-
-- python3.5
-- selenium
-- jieba
-- wordcloud
-
-## 各模块功能
-
-### spider.py
-通过selenium和requests在qq音乐上爬取周杰伦每张专辑的所有歌曲并保存在文件中。
-
-### ciyun.py
-读取歌词并通过jieba分词和wordcloud生成词云。
-
-## 需要在目录下下载一个字体，文件目录也需要按照自己的情况更改。
-
-![](https://wx4.sinaimg.cn/large/006VtvB0ly1fjwbxd1tkhj30hs0dc74v.jpg)
+# 爬虫
+## QQmusic_jaychou
+通过selenium获得歌曲id和requests分析ajax请求爬取QQ音乐中周杰伦的所有专辑的所有歌曲，经jieba分词提取后用wordcloud生成词云，周杰伦在唱什么
+## Dangdang
+用selenium爬取当当网中python图书的详细信息并保存到mongodb
+## zhihu
+用scrapy爬取知乎用户的详细信息保存到mongodb
