@@ -6,4 +6,4 @@
 ## zhihu
 用scrapy爬取知乎用户的详细信息保存到mongodb
 
-$\bigl{ \begin{smallmatrix} 1 \\ 0 \end{smallmatrix} \bigr}$
+$\bigl{ \begin{smallmatrix} 1 \\\ 0 \end{smallmatrix} \bigr}$
